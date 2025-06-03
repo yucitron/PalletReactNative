@@ -1,2 +1,1 @@
-# PalletReactNative
-Palletizer interface design and frontend
+# Basic project starter
